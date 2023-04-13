@@ -1,0 +1,394 @@
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.csproj.AssemblyReference.cache
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.Properties.Resources.resources
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.csproj.GenerateResource.cache
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.csproj.CoreCompileInputs.cache
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\Login_1.exe.config
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\Login_1.exe
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\Login_1.pdb
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\Google.Protobuf.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\MySql.Data.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\Zstandard.Net.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\System.Memory.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\System.Buffers.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\bin\Debug\MySql.Data.xml
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.csproj.CopyComplete
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.exe
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.pdb
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.Login.resources
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.Portal.resources
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.Register.resources
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.forgetPassword.resources
+C:\Users\fung9\Desktop\sdp2\sdp\Login_1\Login_1\obj\Debug\Login_1.NewPickUpOrder.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Login_1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Google.Protobuf.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Zstandard.Net.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\System.Memory.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\System.Buffers.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.AssemblyReference.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.forgetPassword.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.Login.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.NewPickUpOrder.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.Portal.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.Register.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.Properties.Resources.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.GenerateResource.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CoreCompileInputs.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CopyComplete
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\obj\Debug\Login_1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\itextsharp.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\itextsharp.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\editShipment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\managePayment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Invoice.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Login_1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Google.Protobuf.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Zstandard.Net.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\itextsharp.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Memory.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Buffers.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\editShipment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Invoice.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\managePayment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\itextsharp.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.AssemblyReference.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.forgetPassword.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Login.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.NewPickUpOrder.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Portal.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Register.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Properties.Resources.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.GenerateResource.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CoreCompileInputs.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CopyComplete
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Login_1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Google.Protobuf.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Zstandard.Net.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\itextsharp.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Memory.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Buffers.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\editShipment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Invoice.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\managePayment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.pdb
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe.config
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\itextsharp.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.xml
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.AssemblyReference.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.forgetPassword.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Login.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.NewPickUpOrder.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Portal.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Register.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.Properties.Resources.resources
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.GenerateResource.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CoreCompileInputs.cache
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CopyComplete
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe
+C:\Users\manni\OneDrive - Vocational Training Council - Student\Desktop\Final\EDE - Copy - Copy\Login_1(Backup)\Login_1\obj\Debug\Login_1.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\BouncyCastle.Crypto.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Google.Protobuf.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Ubiety.Dns.Core.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Zstandard.Net.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\itextsharp.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Memory.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Hash.xxHash.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Buffers.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Numerics.Vectors.dll
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.xml
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\itextsharp.xml
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.xml
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.AssemblyReference.cache
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.forgetPassword.resources
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Login.resources
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.NewPickUpOrder.resources
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Portal.resources
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Register.resources
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Properties.Resources.resources
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.GenerateResource.cache
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CoreCompileInputs.cache
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CopyComplete
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\BouncyCastle.Crypto.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Google.Protobuf.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Ubiety.Dns.Core.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Zstandard.Net.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\itextsharp.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Memory.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Hash.xxHash.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Buffers.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Numerics.Vectors.dll
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.xml
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\itextsharp.xml
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.xml
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.AssemblyReference.cache
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.forgetPassword.resources
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Login.resources
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.NewPickUpOrder.resources
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Portal.resources
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Register.resources
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Properties.Resources.resources
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.GenerateResource.cache
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CoreCompileInputs.cache
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CopyComplete
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Login_1.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Google.Protobuf.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\itextsharp.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Ubiety.Dns.Core.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Zstandard.Net.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Memory.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Buffers.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\CreateShipment.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\WindowsFormsApp1.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\editShipment.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Invoice.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\managePayment.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\PrepareMonthly.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ProcessShipment.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ShippingExpensesCalculate.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\viewAirwayBills.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\itextsharp.xml
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\MySql.Data.xml
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\EntityFramework.xml
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.AssemblyReference.cache
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.forgetPassword.resources
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Login.resources
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.NewPickUpOrder.resources
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Portal.resources
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Register.resources
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.Properties.Resources.resources
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.GenerateResource.cache
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CoreCompileInputs.cache
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.csproj.CopyComplete
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\obj\Debug\Login_1.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\ImportFunction.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.exe
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.exe.config
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.pdb
+D:\GitHub\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.exe
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.exe.config
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.pdb
+D:\IVE\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.exe
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearchAirwayBill.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\QuickSearch.exe.config
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.pdb
+D:\githubfile\sdp\Prototype1\Login_1(Backup)\Login_1\bin\Debug\Statistics.exe.config

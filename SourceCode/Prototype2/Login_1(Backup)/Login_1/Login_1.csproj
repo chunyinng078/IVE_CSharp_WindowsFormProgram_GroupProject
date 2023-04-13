@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D600E85-DA18-40AC-A693-8DA6CBEDAAA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Login_1</RootNamespace>
+    <AssemblyName>Login_1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604" />
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d" />
+    <Reference Include="MySql.Data, Version=8.0.25.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+    <Reference Include="Zstandard.Net, Version=1.1.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="edeDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>edeDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="forgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forgetPassword.Designer.cs">
+      <DependentUpon>forgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewPickUpOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewPickUpOrder.Designer.cs">
+      <DependentUpon>NewPickUpOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Portal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Portal.Designer.cs">
+      <DependentUpon>Portal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="forgetPassword.resx">
+      <DependentUpon>forgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPickUpOrder.resx">
+      <DependentUpon>NewPickUpOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Portal.resx">
+      <DependentUpon>Portal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="edeDataSet1.xsc">
+      <DependentUpon>edeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="edeDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>edeDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="edeDataSet1.xss">
+      <DependentUpon>edeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CreateShipment\CreateShipment\CreateShipment.csproj">
+      <Project>{2fa241d6-5f61-4481-8a45-17409e49a146}</Project>
+      <Name>CreateShipment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\EditPickUp\WindowsFormsApp1\WindowsFormsApp1.csproj">
+      <Project>{7743ef9d-3230-459e-b9c7-b94752847b2c}</Project>
+      <Name>WindowsFormsApp1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\editShipment\editShipment\editShipment.csproj">
+      <Project>{c77baf2b-65d7-4171-a138-f1b1fd0c3479}</Project>
+      <Name>editShipment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ImportFunction%28Latest Ver.%29\ImportFunction\ImportFunction.csproj">
+      <Project>{8c42c25b-cf27-4dc4-b43b-8e9bd389a410}</Project>
+      <Name>ImportFunction</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Invoice\Invoice\Invoice.csproj">
+      <Project>{3429a79c-9793-4092-a9c6-458d10a99007}</Project>
+      <Name>Invoice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\managePayment\managePayment\managePayment.csproj">
+      <Project>{ce94b3b7-d78f-40ee-8329-63125eb6edc5}</Project>
+      <Name>managePayment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\PrepareMonthly\PrepareMonthly\PrepareMonthly.csproj">
+      <Project>{4eb34d69-98ad-457f-99e5-8343af0f538b}</Project>
+      <Name>PrepareMonthly</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ProcessShipmentStaffNoMenu\ProcessShipment\ProcessShipmentStaff.csproj">
+      <Project>{efa87b05-e4aa-401d-8416-108f73199e82}</Project>
+      <Name>ProcessShipmentStaff</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QuickSearchAirwayBill\QuickSearchAirwayBill\QuickSearchAirwayBill.csproj">
+      <Project>{c6588528-32c0-4d17-a1d2-a3319afb3b96}</Project>
+      <Name>QuickSearchAirwayBill</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\QuickSearch\QuickSearch\QuickSearch.csproj">
+      <Project>{1099e8ca-0171-4e08-bb88-49ba5a176102}</Project>
+      <Name>QuickSearch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ShippingExpensesCalculate%28Demo%29\ShippingExpensesCalculate\ShippingExpensesCalculate.csproj">
+      <Project>{4cf9eeb6-fa44-4c30-ad56-6e6ae5ceba0d}</Project>
+      <Name>ShippingExpensesCalculate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Statistics\Statistics\Statistics.csproj">
+      <Project>{0dd912a6-0699-49b0-9120-dca6ffdefe25}</Project>
+      <Name>Statistics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\viewAirwayBills\viewAirwayBills\viewAirwayBills.csproj">
+      <Project>{eb7eda3f-7858-43c1-9055-4ceb0913aef0}</Project>
+      <Name>viewAirwayBills</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pickup_point_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wacom_tablet_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_receipt_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment_history_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\process_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivered_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivered_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop_shipping_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_delivery_terms_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schedule_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customs_60px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customs_officer_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgot_password_500px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\technical_support_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reception_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email_500px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivered_128px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistics_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistics_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\address_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\name_tag_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email_500px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location_128px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location_100px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

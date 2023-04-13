@@ -1,0 +1,40 @@
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe.config
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.pdb
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.Properties.Resources.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.GenerateResource.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.pdb
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csprojAssemblyReference.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.CalculateExpenses.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe.config
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.pdb
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csprojAssemblyReference.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.CalculateExpenses.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.Properties.Resources.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.GenerateResource.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.pdb
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe.config
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.pdb
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.AssemblyReference.cache
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.CalculateExpenses.resources
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.Properties.Resources.resources
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.GenerateResource.cache
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.CoreCompileInputs.cache
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.exe
+D:\githubfile\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.pdb
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe.config
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.exe
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\bin\Debug\ShippingExpensesCalculate.pdb
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.AssemblyReference.cache
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.CalculateExpenses.resources
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.Properties.Resources.resources
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.GenerateResource.cache
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.csproj.CoreCompileInputs.cache
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.exe
+D:\GitHub\sdp\Prototype1\ShippingExpensesCalculate(Demo)\ShippingExpensesCalculate\obj\Debug\ShippingExpensesCalculate.pdb

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="edeModelStoreContainer" CdmEntityContainer="edeEntities">
+    <EntitySetMapping Name="airwaybills">
+      <EntityTypeMapping TypeName="edeModel.airwaybill">
+        <MappingFragment StoreEntitySet="airwaybill">
+          <ScalarProperty Name="airwayBillID" ColumnName="airwayBillID" />
+          <ScalarProperty Name="services" ColumnName="services" />
+          <ScalarProperty Name="destinationCountry" ColumnName="destinationCountry" />
+          <ScalarProperty Name="deliveryAddress" ColumnName="deliveryAddress" />
+          <ScalarProperty Name="postCode" ColumnName="postCode" />
+          <ScalarProperty Name="receiverCompany" ColumnName="receiverCompany" />
+          <ScalarProperty Name="receiverName" ColumnName="receiverName" />
+          <ScalarProperty Name="receiverPhone" ColumnName="receiverPhone" />
+          <ScalarProperty Name="receiverEmail" ColumnName="receiverEmail" />
+          <ScalarProperty Name="declaredValue" ColumnName="declaredValue" />
+          <ScalarProperty Name="contentDescription" ColumnName="contentDescription" />
+          <ScalarProperty Name="weight" ColumnName="weight" />
+          <ScalarProperty Name="length" ColumnName="length" />
+          <ScalarProperty Name="width" ColumnName="width" />
+          <ScalarProperty Name="height" ColumnName="height" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="statusComment" ColumnName="statusComment" />
+          <ScalarProperty Name="cusID" ColumnName="cusID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="customers">
+      <EntityTypeMapping TypeName="edeModel.customer">
+        <MappingFragment StoreEntitySet="customer">
+          <ScalarProperty Name="cusID" ColumnName="cusID" />
+          <ScalarProperty Name="cusPassword" ColumnName="cusPassword" />
+          <ScalarProperty Name="cusName" ColumnName="cusName" />
+          <ScalarProperty Name="cusPhone" ColumnName="cusPhone" />
+          <ScalarProperty Name="cusAddress" ColumnName="cusAddress" />
+          <ScalarProperty Name="cusEmail" ColumnName="cusEmail" />
+          <ScalarProperty Name="isActive" ColumnName="isActive" />
+          <ScalarProperty Name="cusType" ColumnName="cusType" />
+          <ScalarProperty Name="creditLimit" ColumnName="creditLimit" />
+          <ScalarProperty Name="ccType" ColumnName="ccType" />
+          <ScalarProperty Name="ccNo" ColumnName="ccNo" />
+          <ScalarProperty Name="ccExpiry" ColumnName="ccExpiry" />
+          <ScalarProperty Name="salesRepEmployeeNumber" ColumnName="salesRepEmployeeNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="items">
+      <EntityTypeMapping TypeName="edeModel.item">
+        <MappingFragment StoreEntitySet="item">
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="weight" ColumnName="weight" />
+          <ScalarProperty Name="length" ColumnName="length" />
+          <ScalarProperty Name="width" ColumnName="width" />
+          <ScalarProperty Name="height" ColumnName="height" />
+          <ScalarProperty Name="date" ColumnName="date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="offices">
+      <EntityTypeMapping TypeName="edeModel.office">
+        <MappingFragment StoreEntitySet="offices">
+          <ScalarProperty Name="officeCode" ColumnName="officeCode" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="addressLine1" ColumnName="addressLine1" />
+          <ScalarProperty Name="addressLine2" ColumnName="addressLine2" />
+          <ScalarProperty Name="state" ColumnName="state" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="postalCode" ColumnName="postalCode" />
+          <ScalarProperty Name="territory" ColumnName="territory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="orderdetails">
+      <EntityTypeMapping TypeName="edeModel.orderdetail">
+        <MappingFragment StoreEntitySet="orderdetails">
+          <ScalarProperty Name="orderNumber" ColumnName="orderNumber" />
+          <ScalarProperty Name="productCode" ColumnName="productCode" />
+          <ScalarProperty Name="quantityOrdered" ColumnName="quantityOrdered" />
+          <ScalarProperty Name="priceEach" ColumnName="priceEach" />
+          <ScalarProperty Name="orderLineNumber" ColumnName="orderLineNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="payments">
+      <EntityTypeMapping TypeName="edeModel.payment">
+        <MappingFragment StoreEntitySet="payment">
+          <ScalarProperty Name="paymentID" ColumnName="paymentID" />
+          <ScalarProperty Name="paymentAmount" ColumnName="paymentAmount" />
+          <ScalarProperty Name="paymentDueDate" ColumnName="paymentDueDate" />
+          <ScalarProperty Name="paymentStatus" ColumnName="paymentStatus" />
+          <ScalarProperty Name="paymentMethod" ColumnName="paymentMethod" />
+          <ScalarProperty Name="payment_cusID" ColumnName="payment_cusID" />
+          <ScalarProperty Name="airwaybill_airwayBillId" ColumnName="airwaybill_airwayBillId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pickups">
+      <EntityTypeMapping TypeName="edeModel.pickup">
+        <MappingFragment StoreEntitySet="pickup">
+          <ScalarProperty Name="pickupID" ColumnName="pickupID" />
+          <ScalarProperty Name="pickupDate" ColumnName="pickupDate" />
+          <ScalarProperty Name="services" ColumnName="services" />
+          <ScalarProperty Name="pickup_cusID" ColumnName="pickup_cusID" />
+          <ScalarProperty Name="pickup_address" ColumnName="pickup_address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="staffs">
+      <EntityTypeMapping TypeName="edeModel.staff">
+        <MappingFragment StoreEntitySet="staff">
+          <ScalarProperty Name="staffNo" ColumnName="staffNo" />
+          <ScalarProperty Name="staffPwd" ColumnName="staffPwd" />
+          <ScalarProperty Name="staffName" ColumnName="staffName" />
+          <ScalarProperty Name="extension" ColumnName="extension" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="isActive" ColumnName="isActive" />
+          <ScalarProperty Name="salary" ColumnName="salary" />
+          <ScalarProperty Name="reportsTo" ColumnName="reportsTo" />
+          <ScalarProperty Name="jobTitle" ColumnName="jobTitle" />
+          <ScalarProperty Name="dateOfEmployment" ColumnName="dateOfEmployment" />
+          <ScalarProperty Name="dateOfResignation" ColumnName="dateOfResignation" />
+          <ScalarProperty Name="officeCode" ColumnName="officeCode" />
+          <ScalarProperty Name="staffType" ColumnName="staffType" />
+          <ScalarProperty Name="staffDept" ColumnName="staffDept" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="fees">
+      <EntityTypeMapping TypeName="edeModel.fee">
+        <MappingFragment StoreEntitySet="fee">
+          <ScalarProperty Name="feeID" ColumnName="feeID" />
+          <ScalarProperty Name="feeType" ColumnName="feeType" />
+          <ScalarProperty Name="fee1" ColumnName="fee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="shipments">
+      <EntityTypeMapping TypeName="edeModel.shipment">
+        <MappingFragment StoreEntitySet="shipment">
+          <ScalarProperty Name="shipmentID" ColumnName="shipmentID" />
+          <ScalarProperty Name="destination" ColumnName="destination" />
+          <ScalarProperty Name="sendDate" ColumnName="sendDate" />
+          <ScalarProperty Name="itemCount" ColumnName="itemCount" />
+          <ScalarProperty Name="vehicleNo" ColumnName="vehicleNo" />
+          <ScalarProperty Name="shipmentType" ColumnName="shipmentType" />
+          <ScalarProperty Name="currentLoc" ColumnName="currentLoc" />
+          <ScalarProperty Name="shipment_AirwayBillID" ColumnName="shipment_AirwayBillID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

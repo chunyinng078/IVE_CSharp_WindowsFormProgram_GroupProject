@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="edeModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="airwaybill">
+    <Key>
+      <PropertyRef Name="airwayBillID" />
+    </Key>
+    <Property Name="airwayBillID" Type="int" Nullable="false" />
+    <Property Name="services" Type="int" Nullable="false" />
+    <Property Name="destinationCountry" Type="int" Nullable="false" />
+    <Property Name="deliveryAddress" Type="longtext" Nullable="false" />
+    <Property Name="postCode" Type="char" MaxLength="6" Nullable="false" />
+    <Property Name="receiverCompany" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="receiverName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="receiverPhone" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="receiverEmail" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="declaredValue" Type="float" Nullable="false" />
+    <Property Name="contentDescription" Type="longtext" Nullable="false" />
+    <Property Name="weight" Type="float" Nullable="false" />
+    <Property Name="length" Type="float" Nullable="false" />
+    <Property Name="width" Type="float" Nullable="false" />
+    <Property Name="height" Type="float" Nullable="false" />
+    <Property Name="date" Type="timestamp" Precision="0" Nullable="false" />
+    <Property Name="status" Type="int" Nullable="false" />
+    <Property Name="statusComment" Type="text" />
+    <Property Name="cusID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="customer">
+    <Key>
+      <PropertyRef Name="cusID" />
+    </Key>
+    <Property Name="cusID" Type="int" Nullable="false" />
+    <Property Name="cusPassword" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="cusName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cusPhone" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="cusAddress" Type="longtext" Nullable="false" />
+    <Property Name="cusEmail" Type="text" Nullable="false" />
+    <Property Name="isActive" Type="bool" Nullable="false" />
+    <Property Name="cusType" Type="bool" Nullable="false" />
+    <Property Name="creditLimit" Type="double" />
+    <Property Name="ccType" Type="bool" Nullable="false" />
+    <Property Name="ccNo" Type="char" MaxLength="16" Nullable="false" />
+    <Property Name="ccExpiry" Type="char" MaxLength="4" Nullable="false" />
+    <Property Name="salesRepEmployeeNumber" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'def.ede.fee' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="fee">
+    <Key>
+      <PropertyRef Name="feeID" />
+      <PropertyRef Name="feeType" />
+      <PropertyRef Name="fee" />
+    </Key>
+    <Property Name="feeID" Type="int" Nullable="false" />
+    <Property Name="feeType" Type="tinyint" Nullable="false" />
+    <Property Name="fee" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="item">
+    <Key>
+      <PropertyRef Name="itemID" />
+    </Key>
+    <Property Name="itemID" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="description" Type="longtext" Nullable="false" />
+    <Property Name="weight" Type="float" Nullable="false" />
+    <Property Name="length" Type="float" Nullable="false" />
+    <Property Name="width" Type="float" Nullable="false" />
+    <Property Name="height" Type="float" Nullable="false" />
+    <Property Name="date" Type="timestamp" Precision="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="offices">
+    <Key>
+      <PropertyRef Name="officeCode" />
+    </Key>
+    <Property Name="officeCode" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="city" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="addressLine1" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="addressLine2" Type="varchar" MaxLength="50" />
+    <Property Name="state" Type="varchar" MaxLength="50" />
+    <Property Name="country" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="postalCode" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="territory" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="orderdetails">
+    <Key>
+      <PropertyRef Name="orderNumber" />
+      <PropertyRef Name="productCode" />
+    </Key>
+    <Property Name="orderNumber" Type="int" Nullable="false" />
+    <Property Name="productCode" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="quantityOrdered" Type="int" Nullable="false" />
+    <Property Name="priceEach" Type="double" Nullable="false" />
+    <Property Name="orderLineNumber" Type="smallint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="payment">
+    <Key>
+      <PropertyRef Name="paymentID" />
+    </Key>
+    <Property Name="paymentID" Type="int" Nullable="false" />
+    <Property Name="paymentAmount" Type="float" Nullable="false" />
+    <Property Name="paymentDueDate" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="paymentStatus" Type="tinyint" Nullable="false" />
+    <Property Name="paymentMethod" Type="tinyint" Nullable="false" />
+    <Property Name="payment_cusID" Type="int" Nullable="false" />
+    <Property Name="airwaybill_airwayBillId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="pickup">
+    <Key>
+      <PropertyRef Name="pickupID" />
+    </Key>
+    <Property Name="pickupID" Type="int" Nullable="false" />
+    <Property Name="pickupDate" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="services" Type="tinyint" Nullable="false" />
+    <Property Name="pickup_cusID" Type="int" Nullable="false" />
+    <Property Name="pickup_address" Type="longtext" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'def.ede.shipment' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="shipment">
+    <Key>
+      <PropertyRef Name="shipmentID" />
+      <PropertyRef Name="destination" />
+      <PropertyRef Name="sendDate" />
+      <PropertyRef Name="itemCount" />
+      <PropertyRef Name="vehicleNo" />
+      <PropertyRef Name="shipmentType" />
+      <PropertyRef Name="currentLoc" />
+      <PropertyRef Name="shipment_AirwayBillID" />
+    </Key>
+    <Property Name="shipmentID" Type="int" Nullable="false" />
+    <Property Name="destination" Type="longtext" Nullable="false" />
+    <Property Name="sendDate" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="itemCount" Type="int" Nullable="false" />
+    <Property Name="vehicleNo" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="shipmentType" Type="tinyint" Nullable="false" />
+    <Property Name="currentLoc" Type="longtext" Nullable="false" />
+    <Property Name="shipment_AirwayBillID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="staff">
+    <Key>
+      <PropertyRef Name="staffNo" />
+    </Key>
+    <Property Name="staffNo" Type="int" Nullable="false" />
+    <Property Name="staffPwd" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="staffName" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="extension" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="isActive" Type="tinyint" />
+    <Property Name="salary" Type="float" Nullable="false" />
+    <Property Name="reportsTo" Type="int" />
+    <Property Name="jobTitle" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="dateOfEmployment" Type="date" />
+    <Property Name="dateOfResignation" Type="date" />
+    <Property Name="officeCode" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="staffType" Type="tinyint" Nullable="false" />
+    <Property Name="staffDept" Type="tinyint" Nullable="false" />
+  </EntityType>
+  <Association Name="airwaybill_customer_fk_1">
+    <End Role="customer" Type="Self.customer" Multiplicity="1" />
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="cusID" />
+      </Principal>
+      <Dependent Role="airwaybill">
+        <PropertyRef Name="cusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="customer_ibfk_1">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="customer" Type="Self.customer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffNo" />
+      </Principal>
+      <Dependent Role="customer">
+        <PropertyRef Name="salesRepEmployeeNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="orderdetails_ibfk_1">
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="1" />
+    <End Role="orderdetails" Type="Self.orderdetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="airwaybill">
+        <PropertyRef Name="airwayBillID" />
+      </Principal>
+      <Dependent Role="orderdetails">
+        <PropertyRef Name="orderNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="orderdetails_ibfk_2">
+    <End Role="item" Type="Self.item" Multiplicity="1" />
+    <End Role="orderdetails" Type="Self.orderdetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="item">
+        <PropertyRef Name="itemID" />
+      </Principal>
+      <Dependent Role="orderdetails">
+        <PropertyRef Name="productCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="payment_airwaybill_fk1">
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="1" />
+    <End Role="payment" Type="Self.payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="airwaybill">
+        <PropertyRef Name="airwayBillID" />
+      </Principal>
+      <Dependent Role="payment">
+        <PropertyRef Name="airwaybill_airwayBillId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="payment_customer_fk1">
+    <End Role="customer" Type="Self.customer" Multiplicity="1" />
+    <End Role="payment" Type="Self.payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="cusID" />
+      </Principal>
+      <Dependent Role="payment">
+        <PropertyRef Name="payment_cusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="pickup_customer_fk1">
+    <End Role="customer" Type="Self.customer" Multiplicity="1" />
+    <End Role="pickup" Type="Self.pickup" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="cusID" />
+      </Principal>
+      <Dependent Role="pickup">
+        <PropertyRef Name="pickup_cusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="shipment_AirwayBill_fk1">
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="1" />
+    <End Role="shipment" Type="Self.shipment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="airwaybill">
+        <PropertyRef Name="airwayBillID" />
+      </Principal>
+      <Dependent Role="shipment">
+        <PropertyRef Name="shipment_AirwayBillID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="staff_ibfk_1">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="staff1" Type="Self.staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffNo" />
+      </Principal>
+      <Dependent Role="staff1">
+        <PropertyRef Name="reportsTo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="staff_ibfk_2">
+    <End Role="offices" Type="Self.offices" Multiplicity="1" />
+    <End Role="staff" Type="Self.staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="offices">
+        <PropertyRef Name="officeCode" />
+      </Principal>
+      <Dependent Role="staff">
+        <PropertyRef Name="officeCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="edeModelStoreContainer">
+    <EntitySet Name="airwaybill" EntityType="Self.airwaybill" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="customer" EntityType="Self.customer" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="item" EntityType="Self.item" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="offices" EntityType="Self.offices" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="orderdetails" EntityType="Self.orderdetails" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="payment" EntityType="Self.payment" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="pickup" EntityType="Self.pickup" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="staff" EntityType="Self.staff" Schema="ede" store:Type="Tables" />
+    <EntitySet Name="fee" EntityType="Self.fee" store:Type="Tables" store:Schema="ede">
+      <DefiningQuery>SELECT
+`fee`.`feeID`, 
+`fee`.`feeType`, 
+`fee`.`fee`
+FROM `fee` AS `fee`</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="shipment" EntityType="Self.shipment" store:Type="Tables" store:Schema="ede">
+      <DefiningQuery>SELECT
+`shipment`.`shipmentID`, 
+`shipment`.`destination`, 
+`shipment`.`sendDate`, 
+`shipment`.`itemCount`, 
+`shipment`.`vehicleNo`, 
+`shipment`.`shipmentType`, 
+`shipment`.`currentLoc`, 
+`shipment`.`shipment_AirwayBillID`
+FROM `shipment` AS `shipment`</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="airwaybill_customer_fk_1" Association="Self.airwaybill_customer_fk_1">
+      <End Role="customer" EntitySet="customer" />
+      <End Role="airwaybill" EntitySet="airwaybill" />
+    </AssociationSet>
+    <AssociationSet Name="customer_ibfk_1" Association="Self.customer_ibfk_1">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="customer" EntitySet="customer" />
+    </AssociationSet>
+    <AssociationSet Name="orderdetails_ibfk_1" Association="Self.orderdetails_ibfk_1">
+      <End Role="airwaybill" EntitySet="airwaybill" />
+      <End Role="orderdetails" EntitySet="orderdetails" />
+    </AssociationSet>
+    <AssociationSet Name="orderdetails_ibfk_2" Association="Self.orderdetails_ibfk_2">
+      <End Role="item" EntitySet="item" />
+      <End Role="orderdetails" EntitySet="orderdetails" />
+    </AssociationSet>
+    <AssociationSet Name="payment_airwaybill_fk1" Association="Self.payment_airwaybill_fk1">
+      <End Role="airwaybill" EntitySet="airwaybill" />
+      <End Role="payment" EntitySet="payment" />
+    </AssociationSet>
+    <AssociationSet Name="payment_customer_fk1" Association="Self.payment_customer_fk1">
+      <End Role="customer" EntitySet="customer" />
+      <End Role="payment" EntitySet="payment" />
+    </AssociationSet>
+    <AssociationSet Name="pickup_customer_fk1" Association="Self.pickup_customer_fk1">
+      <End Role="customer" EntitySet="customer" />
+      <End Role="pickup" EntitySet="pickup" />
+    </AssociationSet>
+    <AssociationSet Name="shipment_AirwayBill_fk1" Association="Self.shipment_AirwayBill_fk1">
+      <End Role="airwaybill" EntitySet="airwaybill" />
+      <End Role="shipment" EntitySet="shipment" />
+    </AssociationSet>
+    <AssociationSet Name="staff_ibfk_1" Association="Self.staff_ibfk_1">
+      <End Role="staff" EntitySet="staff" />
+      <End Role="staff1" EntitySet="staff" />
+    </AssociationSet>
+    <AssociationSet Name="staff_ibfk_2" Association="Self.staff_ibfk_2">
+      <End Role="offices" EntitySet="offices" />
+      <End Role="staff" EntitySet="staff" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

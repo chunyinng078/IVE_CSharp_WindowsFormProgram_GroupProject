@@ -1,0 +1,116 @@
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\ImportFunction.exe.config
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\ImportFunction.exe
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\ImportFunction.pdb
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\Google.Protobuf.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\MySql.Data.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\Zstandard.Net.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\System.Memory.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\System.Buffers.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\MySql.Data.xml
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.csproj.AssemblyReference.cache
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.SupplierList.resources
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.ImportMainPage.resources
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.Properties.Resources.resources
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.csproj.GenerateResource.cache
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.csproj.CoreCompileInputs.cache
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.csproj.CopyComplete
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.exe
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.pdb
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.EditRegularSupplies.resources
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\bin\Debug\itextsharp.dll
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.AddRegularSupplies.resources
+C:\Users\fung9\Desktop\ImportFunction\ImportFunction\obj\Debug\ImportFunction.FunctionSelecter.resources
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.exe.config
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.exe
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.pdb
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Google.Protobuf.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\itextsharp.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\MySql.Data.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Ubiety.Dns.Core.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Zstandard.Net.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Memory.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Buffers.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\MySql.Data.xml
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.AssemblyReference.cache
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.AddRegularSupplies.resources
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.EditRegularSupplies.resources
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.FunctionSelecter.resources
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.SupplierList.resources
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.ImportMainPage.resources
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.Properties.Resources.resources
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.GenerateResource.cache
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.CoreCompileInputs.cache
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.CopyComplete
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.exe
+D:\GitHub\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.pdb
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.AssemblyReference.cache
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.AddRegularSupplies.resources
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.EditRegularSupplies.resources
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.FunctionSelecter.resources
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.SupplierList.resources
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.ImportMainPage.resources
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.Properties.Resources.resources
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.GenerateResource.cache
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.CoreCompileInputs.cache
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.exe
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.pdb
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.exe.config
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.exe
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.pdb
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\BouncyCastle.Crypto.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Google.Protobuf.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\itextsharp.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\MySql.Data.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Ubiety.Dns.Core.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Zstandard.Net.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Memory.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Compression.LZ4.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Hash.xxHash.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Buffers.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Numerics.Vectors.dll
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\MySql.Data.xml
+D:\IVE\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.CopyComplete
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.exe.config
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.exe
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\ImportFunction.pdb
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\BouncyCastle.Crypto.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Google.Protobuf.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\itextsharp.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\MySql.Data.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Ubiety.Dns.Core.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\Zstandard.Net.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Memory.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Compression.LZ4.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\K4os.Hash.xxHash.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Buffers.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\System.Numerics.Vectors.dll
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\bin\Debug\MySql.Data.xml
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.AssemblyReference.cache
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.AddRegularSupplies.resources
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.EditRegularSupplies.resources
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.FunctionSelecter.resources
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.SupplierList.resources
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.ImportMainPage.resources
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.Properties.Resources.resources
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.GenerateResource.cache
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.CoreCompileInputs.cache
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.csproj.CopyComplete
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.exe
+D:\githubfile\sdp\Prototype1\ImportFunction(Latest Ver.)\ImportFunction\obj\Debug\ImportFunction.pdb

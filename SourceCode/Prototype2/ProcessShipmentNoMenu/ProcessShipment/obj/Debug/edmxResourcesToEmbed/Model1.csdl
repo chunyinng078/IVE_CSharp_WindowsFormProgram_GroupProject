@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="edeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="airwaybill">
+    <Key>
+      <PropertyRef Name="airwayBillID" />
+    </Key>
+    <Property Name="airwayBillID" Type="Int32" Nullable="false" />
+    <Property Name="services" Type="Int32" Nullable="false" />
+    <Property Name="destinationCountry" Type="Int32" Nullable="false" />
+    <Property Name="deliveryAddress" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="postCode" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="receiverCompany" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="receiverName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="receiverPhone" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="receiverEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="declaredValue" Type="Single" Nullable="false" />
+    <Property Name="contentDescription" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="weight" Type="Single" Nullable="false" />
+    <Property Name="length" Type="Single" Nullable="false" />
+    <Property Name="width" Type="Single" Nullable="false" />
+    <Property Name="height" Type="Single" Nullable="false" />
+    <Property Name="date" Type="DateTime" Nullable="false" />
+    <Property Name="status" Type="Int32" Nullable="false" />
+    <Property Name="statusComment" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="cusID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="customer" Relationship="Self.airwaybill_customer_fk_1" FromRole="airwaybill" ToRole="customer" />
+    <NavigationProperty Name="orderdetails" Relationship="Self.orderdetails_ibfk_1" FromRole="airwaybill" ToRole="orderdetails" />
+    <NavigationProperty Name="payments" Relationship="Self.payment_airwaybill_fk1" FromRole="airwaybill" ToRole="payment" />
+    <NavigationProperty Name="shipments" Relationship="Self.shipment_AirwayBill_fk1" FromRole="airwaybill" ToRole="shipment" />
+  </EntityType>
+  <EntityType Name="customer">
+    <Key>
+      <PropertyRef Name="cusID" />
+    </Key>
+    <Property Name="cusID" Type="Int32" Nullable="false" />
+    <Property Name="cusPassword" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cusName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cusPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cusAddress" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="cusEmail" Type="String" MaxLength="65535" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="isActive" Type="Boolean" Nullable="false" />
+    <Property Name="cusType" Type="Boolean" Nullable="false" />
+    <Property Name="creditLimit" Type="Double" />
+    <Property Name="ccType" Type="Boolean" Nullable="false" />
+    <Property Name="ccNo" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ccExpiry" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="salesRepEmployeeNumber" Type="Int32" />
+    <NavigationProperty Name="airwaybills" Relationship="Self.airwaybill_customer_fk_1" FromRole="customer" ToRole="airwaybill" />
+    <NavigationProperty Name="staff" Relationship="Self.customer_ibfk_1" FromRole="customer" ToRole="staff" />
+    <NavigationProperty Name="payments" Relationship="Self.payment_customer_fk1" FromRole="customer" ToRole="payment" />
+    <NavigationProperty Name="pickups" Relationship="Self.pickup_customer_fk1" FromRole="customer" ToRole="pickup" />
+  </EntityType>
+  <EntityType Name="item">
+    <Key>
+      <PropertyRef Name="itemID" />
+    </Key>
+    <Property Name="itemID" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="weight" Type="Single" Nullable="false" />
+    <Property Name="length" Type="Single" Nullable="false" />
+    <Property Name="width" Type="Single" Nullable="false" />
+    <Property Name="height" Type="Single" Nullable="false" />
+    <Property Name="date" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="orderdetails" Relationship="Self.orderdetails_ibfk_2" FromRole="item" ToRole="orderdetails" />
+  </EntityType>
+  <EntityType Name="office">
+    <Key>
+      <PropertyRef Name="officeCode" />
+    </Key>
+    <Property Name="officeCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="city" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="phone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="addressLine1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="addressLine2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="state" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="country" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="postalCode" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="territory" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="staffs" Relationship="Self.staff_ibfk_2" FromRole="offices" ToRole="staff" />
+  </EntityType>
+  <EntityType Name="orderdetail">
+    <Key>
+      <PropertyRef Name="orderNumber" />
+      <PropertyRef Name="productCode" />
+    </Key>
+    <Property Name="orderNumber" Type="Int32" Nullable="false" />
+    <Property Name="productCode" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="quantityOrdered" Type="Int32" Nullable="false" />
+    <Property Name="priceEach" Type="Double" Nullable="false" />
+    <Property Name="orderLineNumber" Type="Int16" Nullable="false" />
+    <NavigationProperty Name="airwaybill" Relationship="Self.orderdetails_ibfk_1" FromRole="orderdetails" ToRole="airwaybill" />
+    <NavigationProperty Name="item" Relationship="Self.orderdetails_ibfk_2" FromRole="orderdetails" ToRole="item" />
+  </EntityType>
+  <EntityType Name="payment">
+    <Key>
+      <PropertyRef Name="paymentID" />
+    </Key>
+    <Property Name="paymentID" Type="Int32" Nullable="false" />
+    <Property Name="paymentAmount" Type="Single" Nullable="false" />
+    <Property Name="paymentDueDate" Type="DateTime" Nullable="false" />
+    <Property Name="paymentStatus" Type="SByte" Nullable="false" />
+    <Property Name="paymentMethod" Type="SByte" Nullable="false" />
+    <Property Name="payment_cusID" Type="Int32" Nullable="false" />
+    <Property Name="airwaybill_airwayBillId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="airwaybill" Relationship="Self.payment_airwaybill_fk1" FromRole="payment" ToRole="airwaybill" />
+    <NavigationProperty Name="customer" Relationship="Self.payment_customer_fk1" FromRole="payment" ToRole="customer" />
+  </EntityType>
+  <EntityType Name="pickup">
+    <Key>
+      <PropertyRef Name="pickupID" />
+    </Key>
+    <Property Name="pickupID" Type="Int32" Nullable="false" />
+    <Property Name="pickupDate" Type="DateTime" Nullable="false" />
+    <Property Name="services" Type="SByte" Nullable="false" />
+    <Property Name="pickup_cusID" Type="Int32" Nullable="false" />
+    <Property Name="pickup_address" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="customer" Relationship="Self.pickup_customer_fk1" FromRole="pickup" ToRole="customer" />
+  </EntityType>
+  <EntityType Name="staff">
+    <Key>
+      <PropertyRef Name="staffNo" />
+    </Key>
+    <Property Name="staffNo" Type="Int32" Nullable="false" />
+    <Property Name="staffPwd" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="staffName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="extension" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="isActive" Type="SByte" />
+    <Property Name="salary" Type="Single" Nullable="false" />
+    <Property Name="reportsTo" Type="Int32" />
+    <Property Name="jobTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="dateOfEmployment" Type="DateTime" />
+    <Property Name="dateOfResignation" Type="DateTime" />
+    <Property Name="officeCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="staffType" Type="SByte" Nullable="false" />
+    <Property Name="staffDept" Type="SByte" Nullable="false" />
+    <NavigationProperty Name="customers" Relationship="Self.customer_ibfk_1" FromRole="staff" ToRole="customer" />
+    <NavigationProperty Name="office" Relationship="Self.staff_ibfk_2" FromRole="staff" ToRole="offices" />
+    <NavigationProperty Name="staff1" Relationship="Self.staff_ibfk_1" FromRole="staff" ToRole="staff1" />
+    <NavigationProperty Name="staff2" Relationship="Self.staff_ibfk_1" FromRole="staff1" ToRole="staff" />
+  </EntityType>
+  <EntityType Name="fee">
+    <Key>
+      <PropertyRef Name="feeID" />
+      <PropertyRef Name="feeType" />
+      <PropertyRef Name="fee1" />
+    </Key>
+    <Property Name="feeID" Type="Int32" Nullable="false" />
+    <Property Name="feeType" Type="SByte" Nullable="false" />
+    <Property Name="fee1" Type="Single" Nullable="false" />
+  </EntityType>
+  <EntityType Name="shipment">
+    <Key>
+      <PropertyRef Name="shipmentID" />
+      <PropertyRef Name="destination" />
+      <PropertyRef Name="sendDate" />
+      <PropertyRef Name="itemCount" />
+      <PropertyRef Name="vehicleNo" />
+      <PropertyRef Name="shipmentType" />
+      <PropertyRef Name="currentLoc" />
+      <PropertyRef Name="shipment_AirwayBillID" />
+    </Key>
+    <Property Name="shipmentID" Type="Int32" Nullable="false" />
+    <Property Name="destination" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="sendDate" Type="DateTime" Nullable="false" />
+    <Property Name="itemCount" Type="Int32" Nullable="false" />
+    <Property Name="vehicleNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="shipmentType" Type="SByte" Nullable="false" />
+    <Property Name="currentLoc" Type="String" MaxLength="1073741823" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="shipment_AirwayBillID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="airwaybill" Relationship="Self.shipment_AirwayBill_fk1" FromRole="shipment" ToRole="airwaybill" />
+  </EntityType>
+  <Association Name="airwaybill_customer_fk_1">
+    <End Role="customer" Type="Self.customer" Multiplicity="1" />
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="cusID" />
+      </Principal>
+      <Dependent Role="airwaybill">
+        <PropertyRef Name="cusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="orderdetails_ibfk_1">
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="1" />
+    <End Role="orderdetails" Type="Self.orderdetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="airwaybill">
+        <PropertyRef Name="airwayBillID" />
+      </Principal>
+      <Dependent Role="orderdetails">
+        <PropertyRef Name="orderNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="payment_airwaybill_fk1">
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="1" />
+    <End Role="payment" Type="Self.payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="airwaybill">
+        <PropertyRef Name="airwayBillID" />
+      </Principal>
+      <Dependent Role="payment">
+        <PropertyRef Name="airwaybill_airwayBillId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="shipment_AirwayBill_fk1">
+    <End Role="airwaybill" Type="Self.airwaybill" Multiplicity="1" />
+    <End Role="shipment" Type="Self.shipment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="airwaybill">
+        <PropertyRef Name="airwayBillID" />
+      </Principal>
+      <Dependent Role="shipment">
+        <PropertyRef Name="shipment_AirwayBillID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="customer_ibfk_1">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="customer" Type="Self.customer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffNo" />
+      </Principal>
+      <Dependent Role="customer">
+        <PropertyRef Name="salesRepEmployeeNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="payment_customer_fk1">
+    <End Role="customer" Type="Self.customer" Multiplicity="1" />
+    <End Role="payment" Type="Self.payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="cusID" />
+      </Principal>
+      <Dependent Role="payment">
+        <PropertyRef Name="payment_cusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="pickup_customer_fk1">
+    <End Role="customer" Type="Self.customer" Multiplicity="1" />
+    <End Role="pickup" Type="Self.pickup" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="customer">
+        <PropertyRef Name="cusID" />
+      </Principal>
+      <Dependent Role="pickup">
+        <PropertyRef Name="pickup_cusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="orderdetails_ibfk_2">
+    <End Role="item" Type="Self.item" Multiplicity="1" />
+    <End Role="orderdetails" Type="Self.orderdetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="item">
+        <PropertyRef Name="itemID" />
+      </Principal>
+      <Dependent Role="orderdetails">
+        <PropertyRef Name="productCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="staff_ibfk_2">
+    <End Role="offices" Type="Self.office" Multiplicity="1" />
+    <End Role="staff" Type="Self.staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="offices">
+        <PropertyRef Name="officeCode" />
+      </Principal>
+      <Dependent Role="staff">
+        <PropertyRef Name="officeCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="staff_ibfk_1">
+    <End Role="staff" Type="Self.staff" Multiplicity="0..1" />
+    <End Role="staff1" Type="Self.staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="staff">
+        <PropertyRef Name="staffNo" />
+      </Principal>
+      <Dependent Role="staff1">
+        <PropertyRef Name="reportsTo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="edeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="airwaybills" EntityType="Self.airwaybill" />
+    <EntitySet Name="customers" EntityType="Self.customer" />
+    <EntitySet Name="items" EntityType="Self.item" />
+    <EntitySet Name="offices" EntityType="Self.office" />
+    <EntitySet Name="orderdetails" EntityType="Self.orderdetail" />
+    <EntitySet Name="payments" EntityType="Self.payment" />
+    <EntitySet Name="pickups" EntityType="Self.pickup" />
+    <EntitySet Name="staffs" EntityType="Self.staff" />
+    <EntitySet Name="fees" EntityType="Self.fee" />
+    <EntitySet Name="shipments" EntityType="Self.shipment" />
+    <AssociationSet Name="airwaybill_customer_fk_1" Association="Self.airwaybill_customer_fk_1">
+      <End Role="customer" EntitySet="customers" />
+      <End Role="airwaybill" EntitySet="airwaybills" />
+    </AssociationSet>
+    <AssociationSet Name="orderdetails_ibfk_1" Association="Self.orderdetails_ibfk_1">
+      <End Role="airwaybill" EntitySet="airwaybills" />
+      <End Role="orderdetails" EntitySet="orderdetails" />
+    </AssociationSet>
+    <AssociationSet Name="payment_airwaybill_fk1" Association="Self.payment_airwaybill_fk1">
+      <End Role="airwaybill" EntitySet="airwaybills" />
+      <End Role="payment" EntitySet="payments" />
+    </AssociationSet>
+    <AssociationSet Name="shipment_AirwayBill_fk1" Association="Self.shipment_AirwayBill_fk1">
+      <End Role="airwaybill" EntitySet="airwaybills" />
+      <End Role="shipment" EntitySet="shipments" />
+    </AssociationSet>
+    <AssociationSet Name="customer_ibfk_1" Association="Self.customer_ibfk_1">
+      <End Role="staff" EntitySet="staffs" />
+      <End Role="customer" EntitySet="customers" />
+    </AssociationSet>
+    <AssociationSet Name="payment_customer_fk1" Association="Self.payment_customer_fk1">
+      <End Role="customer" EntitySet="customers" />
+      <End Role="payment" EntitySet="payments" />
+    </AssociationSet>
+    <AssociationSet Name="pickup_customer_fk1" Association="Self.pickup_customer_fk1">
+      <End Role="customer" EntitySet="customers" />
+      <End Role="pickup" EntitySet="pickups" />
+    </AssociationSet>
+    <AssociationSet Name="orderdetails_ibfk_2" Association="Self.orderdetails_ibfk_2">
+      <End Role="item" EntitySet="items" />
+      <End Role="orderdetails" EntitySet="orderdetails" />
+    </AssociationSet>
+    <AssociationSet Name="staff_ibfk_2" Association="Self.staff_ibfk_2">
+      <End Role="offices" EntitySet="offices" />
+      <End Role="staff" EntitySet="staffs" />
+    </AssociationSet>
+    <AssociationSet Name="staff_ibfk_1" Association="Self.staff_ibfk_1">
+      <End Role="staff" EntitySet="staffs" />
+      <End Role="staff1" EntitySet="staffs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

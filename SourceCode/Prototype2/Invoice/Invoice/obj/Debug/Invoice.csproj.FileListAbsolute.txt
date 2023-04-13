@@ -1,0 +1,109 @@
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\Invoice.exe.config
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\Invoice.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\Invoice.pdb
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\itextsharp.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\itextsharp.xml
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.csprojAssemblyReference.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.selectInvoice.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.viewInvoice.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.csproj.CopyComplete
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.pdb
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\MySql.Data.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\Ubiety.Dns.Core.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\Zstandard.Net.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\System.Memory.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\System.Buffers.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\bin\Debug\MySql.Data.xml
+D:\Visual Studio\SDPPPPPPPPPPPPPP\Invoice\Invoice\obj\Debug\Invoice.exe.config
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.exe.config
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.exe
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.pdb
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\BouncyCastle.Crypto.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\Google.Protobuf.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\itextsharp.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\MySql.Data.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\Ubiety.Dns.Core.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\Zstandard.Net.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Memory.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Hash.xxHash.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Buffers.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Numerics.Vectors.dll
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\itextsharp.xml
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\bin\Debug\MySql.Data.xml
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.AssemblyReference.cache
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.selectInvoice.resources
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.viewInvoice.resources
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.CopyComplete
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.exe
+D:\githubfile\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.pdb
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.exe.config
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.exe
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.pdb
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\BouncyCastle.Crypto.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\Google.Protobuf.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\itextsharp.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\MySql.Data.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\Ubiety.Dns.Core.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\Zstandard.Net.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Memory.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Hash.xxHash.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Buffers.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Numerics.Vectors.dll
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\itextsharp.xml
+D:\IVE\sdp\Prototype1\Invoice\Invoice\bin\Debug\MySql.Data.xml
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.AssemblyReference.cache
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.selectInvoice.resources
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.viewInvoice.resources
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.CopyComplete
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.exe
+D:\IVE\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.pdb
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.exe.config
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.exe
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\Invoice.pdb
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\Google.Protobuf.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\itextsharp.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\MySql.Data.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\Ubiety.Dns.Core.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\Zstandard.Net.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Memory.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Buffers.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\itextsharp.xml
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\bin\Debug\MySql.Data.xml
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.AssemblyReference.cache
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.selectInvoice.resources
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.viewInvoice.resources
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.csproj.CopyComplete
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.exe
+D:\GitHub\sdp\Prototype1\Invoice\Invoice\obj\Debug\Invoice.pdb

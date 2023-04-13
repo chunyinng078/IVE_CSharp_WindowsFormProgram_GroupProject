@@ -1,0 +1,106 @@
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe.config
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.pdb
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\Ubiety.Dns.Core.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\Zstandard.Net.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\System.Memory.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\System.Buffers.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.xml
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.AssemblyReference.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceSeletor.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.Properties.Resources.resources
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.GenerateResource.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CopyComplete
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.exe
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.pdb
+D:\Visual Studio\SDPPPPPPPPPPPPPP\PrepareMonthly\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceViewer.resources
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe.config
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.pdb
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\BouncyCastle.Crypto.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Google.Protobuf.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Ubiety.Dns.Core.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Zstandard.Net.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Memory.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Hash.xxHash.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Buffers.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Numerics.Vectors.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.xml
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.AssemblyReference.cache
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceSeletor.resources
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceViewer.resources
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.Properties.Resources.resources
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.GenerateResource.cache
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CoreCompileInputs.cache
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CopyComplete
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.exe
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.pdb
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\itextsharp.dll
+D:\githubfile\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\itextsharp.xml
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe.config
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.pdb
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\BouncyCastle.Crypto.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Google.Protobuf.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\itextsharp.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Ubiety.Dns.Core.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Zstandard.Net.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Memory.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Hash.xxHash.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Buffers.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Numerics.Vectors.dll
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\itextsharp.xml
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.xml
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.AssemblyReference.cache
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceSeletor.resources
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceViewer.resources
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.Properties.Resources.resources
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.GenerateResource.cache
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CoreCompileInputs.cache
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CopyComplete
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.exe
+D:\IVE\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.pdb
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe.config
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.exe
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\PrepareMonthly.pdb
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Google.Protobuf.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\itextsharp.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Ubiety.Dns.Core.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\Zstandard.Net.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Memory.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Buffers.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\itextsharp.xml
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\bin\Debug\MySql.Data.xml
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.AssemblyReference.cache
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceSeletor.resources
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.MonthlyInvoiceViewer.resources
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.Properties.Resources.resources
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.GenerateResource.cache
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CoreCompileInputs.cache
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.csproj.CopyComplete
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.exe
+D:\GitHub\sdp\Prototype1\PrepareMonthly\PrepareMonthly\obj\Debug\PrepareMonthly.pdb
